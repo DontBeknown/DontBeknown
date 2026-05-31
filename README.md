@@ -40,11 +40,10 @@
 
 | Project | Description | Role/Tech |
 |---------|-------------|-----------|
-| **LOST IN THE MOUNTAIN** | 3D procedural survival hiking game featuring a custom shortest-pathfinding algorithm (HJB). | `C#`, `Unity`, `Procedural Gen` |
-| [**ModEd**](https://github.com/DontBeknown) | Fullstack web application for student internship applications. Architected the Recruitment Module. | `Go`, `React`, `Docker`, `PostgreSQL` |
+| [**LOST IN THE MOUNTAIN**](https://github.com/DontBeknown/so-PEAK) | 3D procedural survival hiking game featuring a custom shortest-pathfinding algorithm (HJB). | `C#`, `Unity`, `Procedural Gen` |
+| [**ModEd**](https://github.com/Thanaphol47825/cpe494-fullstack-2025) | Fullstack web application for student internship applications. Architected the Recruitment Module. | `Go`, `React`, `Docker`, `PostgreSQL` |
 | [**AirConditionerTechnician**](https://github.com/DontBeknown/AirConditionerTechnician) | 2D educational simulation designed to train technicians using the LADDER principle and DOTween UI. | `C#`, `Unity`, `Simulation` |
-| **Another Story Another Legacy** | Multiplayer D&D-style game with a synchronized turn-based initiative system. | `C#`, `Photon PUN 2`, `Firebase` |
-| [**so-PEAK**](https://github.com/DontBeknown/so-PEAK) | Object-Oriented Game System Architecture using SOLID principles and a custom DI container. | `C#`, `System Architecture` |
+| [**Another Story Another Legacy**](https://github.com/Jarukit-PM/Dnd_Game) | Multiplayer D&D-style game with a synchronized turn-based initiative system. | `C#`, `Photon PUN 2`, `Firebase` |
 | [**BattleCast**](https://github.com/DontBeknown/BattleCast) | Virtual Reality A-Math game utilizing SteamVR for immersive equation-solving challenges. | `C#`, `VR/AR`, `SteamVR` |
 
 ---
