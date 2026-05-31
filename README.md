@@ -12,10 +12,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I am currently studying **Computer Engineering** at King Mongkut's University of Technology Thonburi.
-- 💼 Previously an **Unreal Engine Game Development Intern** at Lumind Drive in Bangkok.
-- ⚙️ My core interests include **procedural content generation**, **custom pathfinding algorithms**, and **scalable software architecture**.
-- 📫 Reach me at: **enezor0612@gmail.com**
+- 🎓 I am currently studying **Computer Engineering**.
+- ⚙️ My core interests include **game development**, **web development**, and **scalable software architecture**.
 
 ---
 
@@ -57,16 +55,6 @@
 <br>
 
 <img src="https://streak-stats.demolab.com/?user=DontBeknown&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 💬 Top Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DontBeknown&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rozene's Top Languages" />
 
 </div>
 
